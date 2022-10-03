@@ -24,7 +24,7 @@ int main()
 {
     Animal dog = Animal("dog");
 
-    cout << "Hi, I'm a " << dog.GetName() << endl;
+    cout << "Hi, I'm a ttttttt" << dog.GetName() << endl;
 
     return 0;
 }
